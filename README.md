@@ -3,7 +3,7 @@
 Multi-class classification of dry bean varieties from image-derived shape features, with five
 classical ML models and an interactive Streamlit app for evaluating them on held-out data.
 
-- **GitHub repository:** https://github.com/<your-github-username>/dry-bean-classifier-lab
+- **GitHub repository:** https://github.com/belgaonkarsantosh/ml_assignment_2
 - **Live Streamlit app:** https://<your-app-name>.streamlit.app
 
 ---
@@ -50,7 +50,7 @@ used for every number in this README and in the app.
 
 ## c. GitHub repository link
 
-https://github.com/<your-github-username>/dry-bean-classifier-lab
+https://github.com/belgaonkarsantosh/ml_assignment_2
 
 ```
 dry-bean-classifier-lab/
