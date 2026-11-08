@@ -4,7 +4,7 @@ Multi-class classification of dry bean varieties from image-derived shape featur
 classical ML models and an interactive Streamlit app for evaluating them on held-out data.
 
 - **GitHub repository:** https://github.com/belgaonkarsantosh/ml_assignment_2
-- **Live Streamlit app:** https://<your-app-name>.streamlit.app
+- **Live Streamlit app:** https://mlassignment2-chahrxyffc4m3shlcgxfqh.streamlit.app/
 
 ---
 
